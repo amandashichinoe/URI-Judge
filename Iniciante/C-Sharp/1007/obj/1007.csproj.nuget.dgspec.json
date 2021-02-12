@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\Iniciante\\C-Sharp\\1007\\1007.csproj": {}
+    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\iniciante\\C-Sharp\\1007\\1007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\Iniciante\\C-Sharp\\1007\\1007.csproj": {
+    "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\iniciante\\C-Sharp\\1007\\1007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\Iniciante\\C-Sharp\\1007\\1007.csproj",
+        "projectUniqueName": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\iniciante\\C-Sharp\\1007\\1007.csproj",
         "projectName": "1007",
-        "projectPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\Iniciante\\C-Sharp\\1007\\1007.csproj",
+        "projectPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\iniciante\\C-Sharp\\1007\\1007.csproj",
         "packagesPath": "C:\\Users\\amand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\Iniciante\\C-Sharp\\1007\\obj\\",
+        "outputPath": "C:\\Users\\amand\\OneDrive - Fatec Centro Paula Souza\\Repositórios GitHub 2\\UriJudge\\iniciante\\C-Sharp\\1007\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

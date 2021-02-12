@@ -1,0 +1,16 @@
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.csprojAssemblyReference.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.AssemblyInfoInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.AssemblyInfo.cs
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.exe
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.deps.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.runtimeconfig.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.runtimeconfig.dev.json
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\ref\1010.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\bin\Debug\net5.0\1010.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\ref\1010.dll
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.pdb
+C:\Users\amand\OneDrive - Fatec Centro Paula Souza\Repositórios GitHub 2\UriJudge\iniciante\C-Sharp\1010\obj\Debug\net5.0\1010.genruntimeconfig.cache
